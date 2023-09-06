@@ -4,7 +4,7 @@ This repository will contain code specifically for Azure functions with the goal
 # Tools
 - Visual Studio 2022 or Visual Studio Code
 - .Net6 SDK
-- Azure Functions Core Tools v4 - (x64 Windows Download)[https://go.microsoft.com/fwlink/?linkid=2174087]
+- Azure Functions Core Tools v4 - [x64 Windows Download](https://go.microsoft.com/fwlink/?linkid=2174087)
 - Powershell 7
 
 
@@ -40,6 +40,6 @@ localhost:7071/api/openapi/v3.json
 ```
 
 # References
-- (Azure Functions OpenApi Extension Repo)[https://github.com/Azure/azure-functions-openapi-extension/tree/main]
-- (Enable OpenApi on In-Process Functions)[https://github.com/Azure/azure-functions-openapi-extension/blob/main/docs/enable-open-api-endpoints-in-proc.md]
-- (Azure Functions Core Tools)[https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local?WT.mc_id=dotnet-0000-juyoo&tabs=windows%2Cisolated-process%2Cnode-v4%2Cpython-v2%2Chttp-trigger%2Ccontainer-apps&pivots=programming-language-csharp]
+- [Azure Functions OpenApi Extension Repo](https://github.com/Azure/azure-functions-openapi-extension/tree/main)
+- [Enable OpenApi on In-Process Functions](https://github.com/Azure/azure-functions-openapi-extension/blob/main/docs/enable-open-api-endpoints-in-proc.md)
+- [Azure Functions Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local?WT.mc_id=dotnet-0000-juyoo&tabs=windows%2Cisolated-process%2Cnode-v4%2Cpython-v2%2Chttp-trigger%2Ccontainer-apps&pivots=programming-language-csharp)
